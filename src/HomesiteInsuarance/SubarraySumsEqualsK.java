@@ -6,5 +6,7 @@ public class SubarraySumsEqualsK {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
 
 }
